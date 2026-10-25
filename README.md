@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="github-banner.png" alt="Banner Rasta Nura" width="100%">
+</p>
 # Hi, I'm Rasta Nura! 👋
 
 ### Mahasiswa Sistem Informasi Bisnis | Politeknik Negeri Malang
