@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**rastaanra/rastaanra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rasta Nura! 👋
 
-Here are some ideas to get you started:
+### Mahasiswa Sistem Informasi Bisnis | Politeknik Negeri Malang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Halo! Selamat datang di profil GitHub saya.
+
+Saya merupakan mahasiswa D-IV Sistem Informasi Bisnis di Politeknik Negeri Malang yang memiliki ketertarikan dalam pengembangan aplikasi web, aplikasi mobile, dan pengelolaan basis data.
+
+Saya senang mempelajari teknologi baru, mengembangkan aplikasi, serta terus meningkatkan kemampuan di bidang teknologi informasi.
+
+---
+
+### 🌿 About Me
+
+- 🎓 Mahasiswa Politeknik Negeri Malang
+- 💻 Tertarik pada Web & Mobile Development
+- 📚 Sedang mendalami Laravel, Flutter, dan Database
+- 🌱 Terus belajar dan mengembangkan keterampilan
+
+---
+
+<p align="center">
+  <i>Build • Learn • Grow</i>
+</p>
