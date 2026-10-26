@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="github-banner.png" alt="Banner Rasta Nura" width="100%">
 </div>
@@ -7,18 +6,22 @@
 
 <h2 align="center">Selamat Datang di Profil GitHub Saya!</h2>
 
+<p align="center">
+  <strong>Mahasiswa D-IV Sistem Informasi Bisnis</strong><br>
+  Politeknik Negeri Malang
+</p>
 
 <br>
 
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h3> Tentang Saya</h3>
+      <h3>Tentang Saya</h3>
       <p>
-        Saya merupakan mahasiswa D-IV Sistem Informasi Bisnis
-        di Politeknik Negeri Malang yang memiliki ketertarikan
-        pada pengembangan aplikasi web, aplikasi mobile,
-        pengelolaan basis data, dan analisis data.
+        Saya merupakan mahasiswa D-IV Sistem Informasi Bisnis di
+        Politeknik Negeri Malang yang memiliki ketertarikan pada
+        pengembangan aplikasi web, aplikasi mobile, pengelolaan
+        basis data, dan analisis data.
       </p>
       <p>
         Saya senang mempelajari teknologi baru, mengembangkan
@@ -26,17 +29,15 @@
         teknologi informasi melalui berbagai proyek dan pembelajaran.
       </p>
     </td>
-    
-    <td width="30%" align="center" valign="middle">
-      <h2>❝</h2>
-      <p>
+    <td width="30%" valign="top" align="center">
+      <br>
+      <blockquote>
         <em>
-          Kemajuan kecil setiap hari<br>
-          akan membawa hasil yang besar.
+          “Kemajuan kecil setiap hari<br>
+          akan membawa hasil yang besar.”
         </em>
-      </p>
+      </blockquote>
     </td>
-
   </tr>
 </table>
 
@@ -49,8 +50,6 @@
 </p>
 
 <br>
-
-<hr>
 
 <p align="center">
   <em>Build • Learn • Grow • Repeat</em>
