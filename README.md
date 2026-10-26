@@ -22,6 +22,10 @@ Saya senang mempelajari teknologi baru, mengembangkan aplikasi, serta terus meni
 
 ---
 
-<p align="center">
-  <i>Build • Learn • Grow</i>
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,html,css,js,mysql,postgres,git,github,vscode&perline=6" alt="Tech Stack" />
 </p>
+
