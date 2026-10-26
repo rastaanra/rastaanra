@@ -32,6 +32,34 @@
   <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,postgres,git,html,css,js,vscode&perline=11" alt="Tech Stack">
 </p>
 
+<h3>GitHub Stats</h3>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=rastaanra&show_icons=true&title_color=526E8E&text_color=46536B&icon_color=B9AFCC&bg_color=F8F8FA&border_color=D8DCE5&border_radius=10"
+        alt="GitHub Stats"
+        width="100%"
+      >
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastaanra&layout=compact&langs_count=6&title_color=526E8E&text_color=46536B&bg_color=F8F8FA&border_color=D8DCE5&border_radius=10"
+        alt="Most Used Languages"
+        width="100%"
+      >
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com/?user=rastaanra&background=F8F8FA&border=D8DCE5&stroke=B9AFCC&ring=526E8E&fire=88728F&currStreakNum=46536B&sideNums=46536B&currStreakLabel=526E8E&sideLabels=526E8E&dates=68758D"
+        alt="GitHub Streak"
+        width="100%"
+      >
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <hr>
