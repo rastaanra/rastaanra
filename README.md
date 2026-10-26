@@ -7,11 +7,6 @@
 
 <h2 align="center">Selamat Datang di Profil GitHub Saya!</h2>
 
-<p align="center">
-  <strong>Mahasiswa D-IV Sistem Informasi Bisnis</strong><br>
-  Politeknik Negeri Malang
-</p>
-
 <br>
 
 <h3>Tentang Saya</h3>
