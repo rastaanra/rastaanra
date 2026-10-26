@@ -3,14 +3,6 @@
   <img src="github-banner.png" alt="Banner Rasta Nura" width="100%" />
 </div>
 
-<br>
-
-<h1 align="center">Hi, I'm Rasta Nura!</h1>
-
-<h3 align="center">
-  Mahasiswa D-IV Sistem Informasi Bisnis | Politeknik Negeri Malang
-</h3>
-
 <p align="center">
   Selamat datang di profil GitHub saya!
 </p>
