@@ -26,15 +26,17 @@
         teknologi informasi melalui berbagai proyek dan pembelajaran.
       </p>
     </td>
+    
     <td width="30%" align="center" valign="middle">
       <h2>❝</h2>
       <p>
         <em>
-          Kemajuan kecil setiap hari
+          Kemajuan kecil setiap hari<br>
           akan membawa hasil yang besar.
         </em>
       </p>
     </td>
+
   </tr>
 </table>
 
@@ -43,7 +45,7 @@
 <h3>Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,postgres,git,html,css,js,python,figma,vscode&perline=13" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,postgres,git,html,css,js,vscode&perline=13" alt="Tech Stack">
 </p>
 
 <br>
